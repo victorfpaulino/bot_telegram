@@ -14,3 +14,30 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 - npm (ou yarn)
 - Conta no Telegram para registrar um novo bot
 
+## Como Configurar
+
+1. Clone este repositório:
+   ```
+   git clone https://github.com/victorfpaulino/bot_telegram.git
+   ```
+
+2. Instale as dependências do projeto:
+   ```
+   npm install
+   ```
+
+3. Configure o arquivo `.env` com as suas credenciais do Telegram e do banco de dados SQLite.
+
+4. Execute o bot:
+   ```
+   node bot.js
+   ```
+
+## Configuração do `.env`
+
+No arquivo `.env`, adicione as seguintes variáveis de ambiente:
+
+```
+TELEGRAM_TOKEN=Sua_Token_do_Telegram
+DATABASE_URL=sqlite://caminho_para_seu_banco_de_dados.db
+```
