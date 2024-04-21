@@ -30,7 +30,7 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 
 4. Execute o bot:
    ```
-   node bot.js
+   node ./src/bot.js
    ```
 
 ## Configuração do `.env`
