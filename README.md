@@ -23,7 +23,7 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 
 2. Instale as dependências do projeto:
    ```
-   npm install
+   npm install node-telegram-bot-api @prisma/client
    ```
 
 3. Configure o arquivo `.env` com as suas credenciais do Telegram e do banco de dados SQLite.
