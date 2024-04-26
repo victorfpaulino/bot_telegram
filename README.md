@@ -26,7 +26,9 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
    npm install
    ```
 
-3. Faça migração do banco de dados:
+3. Coloque o TOKEN do seu bot no código bot.js
+
+4. Faça migração do banco de dados:
    ```
    npx prisma migrate dev
    ```
