@@ -10,9 +10,8 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 
 ## Requisitos
 
-- Node.js
-- npm (ou yarn)
-- Conta no Telegram para registrar um novo bot
+- [Node.js](https://nodejs.org/en/download)
+- [Conta no Telegram para registrar um novo bot](https://web.telegram.org/k/)
 
 ## Como Configurar
 
