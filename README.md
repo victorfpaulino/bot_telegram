@@ -1,6 +1,6 @@
 # Bot de Atendimento no Telegram
 
-Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, o framework node-telegram-bot-api, e o ORM Prisma para integração com um banco de dados SQLite.
+Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, node-telegram-bot-api, e o ORM Prisma para integração com um banco de dados SQLite.
 
 ## Funcionalidades
 
