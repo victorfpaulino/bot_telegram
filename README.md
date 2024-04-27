@@ -21,19 +21,20 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
    git clone https://github.com/victorfpaulino/bot_telegram.git
    ```
 
-2. Instale as dependências do projeto:
+2. Abra a pasta do projeto com sua IDE.
+
+3. Instale as dependências do projeto:
    ```
    npm install
    ```
+4. Coloque o TOKEN do seu bot no código bot.js
 
-3. Coloque o TOKEN do seu bot no código bot.js
-
-4. Faça migração do banco de dados:
+5. Faça migração do banco de dados:
    ```
    npx prisma migrate dev
    ```
 
-5. Execute o bot:
+6. Execute o bot:
    ```
    node ./src/bot.js
    ```
