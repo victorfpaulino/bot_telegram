@@ -12,6 +12,7 @@ Este é um bot de atendimento desenvolvido para o Telegram, utilizando Node.js, 
 
 - [Node.js](https://nodejs.org/en/download)
 - [Conta no Telegram para registrar um novo bot](https://web.telegram.org/k/)
+- Token do seu Bot pelo [Bot Father](https://www.npmjs.com/package/botfather)
 
 ## Como Configurar
 
